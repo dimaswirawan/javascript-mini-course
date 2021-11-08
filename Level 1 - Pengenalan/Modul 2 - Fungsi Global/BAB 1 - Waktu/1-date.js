@@ -1,0 +1,1 @@
+var tanggal = new Date()
